@@ -50,4 +50,7 @@ streamlit run app.py
 - Streamlit dashboard
 
 ## Author
-Your Name
+Your 
+
+## Final Project Submission
+Employee Data Analysis project completed with data cleaning, exploratory analysis, visualisations and Streamlit dashboard.
